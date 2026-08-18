@@ -8,6 +8,7 @@ public class Main {
 
         fish.move();
         dog.move();
+        System.out.println("this ois to string"+ animal.toString());
 
     }
 }
